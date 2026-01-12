@@ -1,0 +1,62 @@
+# 无法确定授课教师姓名的全称，使用了原文中的拼音缩写。
+course_name: "人工智能"
+course_code: "COMP3005"
+notices: ""
+grading:
+  0000: "作业(30%) + 实验(30%) + 期末考试(40%)"
+teachers:
+  - name: "tbz"
+    reviews:
+      - content: "PPT 非常精美，适合学习、复习。大多数时候不太会会课前发。"
+        submitter:
+          name: ""
+          link: ""
+  - name: "sjy"
+    reviews:
+      - content: "讲得很好。"
+        submitter:
+          name: ""
+          link: ""
+  - name: "xzl"
+    reviews:
+      - content: "暂无评价。"
+        submitter:
+          name: ""
+          link: ""
+  - name: "lwj"
+    reviews:
+      - content: "润。"
+        submitter:
+          name: ""
+          link: ""
+textbooks: []
+online_resources: []
+about_course:
+  - content: "打破你对《人工智能》的幻想。"
+    submitter:
+      name: ""
+      link: ""
+about_exam:
+  - content: |
+      考试中规中矩。看好作业题，看好 PPT 和作业题。
+      可能会考一道大题叙述概念，批阅比较松。
+      带好计算器。
+    submitter:
+      name: ""
+      link: ""
+study_advice:
+  - content: "唯一的难点是，需要提前学习 Python 基础知识和简单的深度学习框架。"
+    submitter:
+      name: ""
+      link: ""
+schedule: []
+related_links: []
+misc:
+  - content: |
+      实验为小组合作：
+      - 实验 1：Pacmac 吃豆人实验，可以网上借鉴前人的经验，还算有意思。
+      - 实验 2：花卉识别，要求用多种深度学习框架。
+      - 答辩：内容包含上述两个实验。
+    submitter:
+      name: ""
+      link: ""
