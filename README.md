@@ -1,4 +1,6 @@
 # COMP3005 - 人工智能
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业30%](https://img.shields.io/badge/作业-30%25-wheat)
@@ -10,21 +12,31 @@
 ## 授课教师
 
 - 汤步洲
+  <!-- TOML-ITEM: id="review-汤步洲-1" -->
   - PPT 非常精美，适合学习、复习。大多数时候不太会会课前发。
 - 苏敬勇
+  <!-- TOML-ITEM: id="review-苏敬勇-1" -->
   - 讲得很好。
 - 徐增林
+  <!-- TOML-ITEM: id="review-徐增林-1" -->
   - 暂无评价。
 - 罗文坚
+  <!-- TOML-ITEM: id="review-罗文坚-1" -->
   - 润。
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 考试中规中矩。看好作业题，看好 PPT 和作业题。
 可能会考一道大题叙述概念，批阅比较松。
 带好计算器。
 
 ## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
 
 小组合作：
 
