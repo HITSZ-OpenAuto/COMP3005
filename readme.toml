@@ -1,33 +1,33 @@
 course_name = "人工智能"
-repo_type = "normal"
 course_code = "COMP3005"
-
+repo_type = "normal"
 description = "打破你对《人工智能》的幻想。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "汤步洲"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "PPT 非常精美，适合学习、复习。大多数时候不太会会课前发。"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "苏敬勇"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "讲得很好。"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "徐增林"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "暂无评价。"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "罗文坚"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "润。"
-
 
 [[sections]]
 title = "关于考试"
