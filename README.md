@@ -7,22 +7,20 @@
 ![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
 ![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
 
-打破你对《人工智能》的幻想。
-
 ## 授课教师
 
 <!-- TOML-LECTURERS: part="items" -->
-- 汤步洲
-  <!-- TOML-ITEM: id="review-汤步洲-1" -->
+- tbz
+  <!-- TOML-ITEM: id="review-tbz-1" -->
   - PPT 非常精美，适合学习、复习。大多数时候不太会会课前发。
-- 苏敬勇
-  <!-- TOML-ITEM: id="review-苏敬勇-1" -->
+- sjy
+  <!-- TOML-ITEM: id="review-sjy-1" -->
   - 讲得很好。
-- 徐增林
-  <!-- TOML-ITEM: id="review-徐增林-1" -->
+- xzl
+  <!-- TOML-ITEM: id="review-xzl-1" -->
   - 暂无评价。
-- 罗文坚
-  <!-- TOML-ITEM: id="review-罗文坚-1" -->
+- lwj
+  <!-- TOML-ITEM: id="review-lwj-1" -->
   - 润。
 
 ## 关于考试
@@ -31,7 +29,9 @@
 <!-- TOML-ITEM: id="item-关于考试-1" -->
 
 考试中规中矩。看好作业题，看好 PPT 和作业题。
+
 可能会考一道大题叙述概念，批阅比较松。
+
 带好计算器。
 
 ## 关于实验
@@ -43,6 +43,14 @@
 
 - 实验 1：Pacmac 吃豆人实验，可以*网上借鉴*前人的经验，还算有意思。
 - 实验 2：花卉识别，要求用多种深度学习框架。
+
 - 答辩：内容包含上述两个实验。
 
 唯一的难点是，需要提前**学习 Python 基础知识和简单的深度学习框架**。
+
+## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
+
+打破你对《人工智能》的幻想。
