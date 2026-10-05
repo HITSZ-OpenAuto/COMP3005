@@ -1,7 +1,6 @@
 course_name = "人工智能"
 course_code = "COMP3005"
 repo_type = "normal"
-description = ""
 
 [lecturers]
 
