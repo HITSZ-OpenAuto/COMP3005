@@ -1,0 +1,162 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814965,
+    "hash": "1ce48904a1832e08be05b405850a1fc133754bf2"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754241390,
+    "hash": "e93cb0461a762cb22091903ee1ccceb7db435239"
+  },
+  "README.md": {
+    "size": 1276,
+    "time": 1791961637,
+    "hash": "0c63694b4d7671549ea403d688e6563b0abfc628"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754241390,
+    "hash": "e93cb0461a762cb22091903ee1ccceb7db435239"
+  },
+  "assignments/2020春人工智能课程作业参考答案.pdf": {
+    "size": 444311,
+    "time": 1764084925,
+    "hash": "bcc4127857b0a9d4888f8180536b5df3d789bf34"
+  },
+  "assignments/2026春人工智能作业答案修改版.pdf": {
+    "size": 1287124,
+    "time": 1783347625,
+    "hash": "82e5b59cc203cfd7395caca03447cb1aeeed88d8"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754241390,
+    "hash": "e93cb0461a762cb22091903ee1ccceb7db435239"
+  },
+  "exams/2018春人工智能期末考试回忆版.pdf": {
+    "size": 2950531,
+    "time": 1764084925,
+    "hash": "bcc4127857b0a9d4888f8180536b5df3d789bf34"
+  },
+  "exams/2019春人工智能期末考试回忆版.pdf": {
+    "size": 160401,
+    "time": 1764084925,
+    "hash": "bcc4127857b0a9d4888f8180536b5df3d789bf34"
+  },
+  "exams/2020春人工智能期末考试回忆版.pdf": {
+    "size": 191457,
+    "time": 1764084925,
+    "hash": "bcc4127857b0a9d4888f8180536b5df3d789bf34"
+  },
+  "exams/2026春人工智能期末考试回忆版.pdf": {
+    "size": 182471,
+    "time": 1783347625,
+    "hash": "82e5b59cc203cfd7395caca03447cb1aeeed88d8"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754241390,
+    "hash": "e93cb0461a762cb22091903ee1ccceb7db435239"
+  },
+  "labs/2022_lab1_pacman答疑.pdf": {
+    "size": 456994,
+    "time": 1764084925,
+    "hash": "bcc4127857b0a9d4888f8180536b5df3d789bf34"
+  },
+  "labs/2022_lab1_搜索策略pacman实验指导书.pdf": {
+    "size": 786812,
+    "time": 1764084925,
+    "hash": "bcc4127857b0a9d4888f8180536b5df3d789bf34"
+  },
+  "labs/2022_lab1_搜索策略pacman课件.pdf": {
+    "size": 745129,
+    "time": 1764084925,
+    "hash": "bcc4127857b0a9d4888f8180536b5df3d789bf34"
+  },
+  "labs/2022_lab2_深度学习实现花卉识别.pdf": {
+    "size": 1136675,
+    "time": 1764084925,
+    "hash": "bcc4127857b0a9d4888f8180536b5df3d789bf34"
+  },
+  "labs/2022_lab2深度学习实现花卉识别指导书.pdf": {
+    "size": 2589929,
+    "time": 1764084925,
+    "hash": "bcc4127857b0a9d4888f8180536b5df3d789bf34"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754241390,
+    "hash": "e93cb0461a762cb22091903ee1ccceb7db435239"
+  },
+  "notes/2022_Ailanxier/Artificial_intelligence.pdf": {
+    "size": 11995006,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "notes/2022_Ailanxier/README.md": {
+    "size": 807,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "notes/2022_xyfJASON/README.md": {
+    "size": 611,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "notes/2022_xyfJASON/第 2 章 确定性知识系统.pdf": {
+    "size": 8443747,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "notes/2022_xyfJASON/第 3 章 不确定性推理.pdf": {
+    "size": 8043180,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "notes/2022_xyfJASON/第 4 章 搜索策略.pdf": {
+    "size": 3563352,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "readme.toml": {
+    "size": 1238,
+    "time": 1791194902,
+    "hash": "a5581489407ac67353d901aec95090d2ead6bd01"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754241390,
+    "hash": "e93cb0461a762cb22091903ee1ccceb7db435239"
+  },
+  "slides/人工智能不确定性推理27-32.pptx": {
+    "size": 11336345,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "slides/人工智能搜索19-26.pptx": {
+    "size": 12244064,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "slides/人工智能概述1-3讲.pdf": {
+    "size": 4165183,
+    "time": 1755962929,
+    "hash": "360166d9772b3ddf9e63c4ffa79970b40d6afa26"
+  },
+  "slides/人工智能知识表示4-6讲.pptx": {
+    "size": 1522580,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "slides/人工智能知识表示7-10讲.pptx": {
+    "size": 729883,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  },
+  "slides/人工智能确定性推理11-18.pptx": {
+    "size": 2172840,
+    "time": 1756080339,
+    "hash": "ff964e3b615a588782508c9bd68fb2dbc978f359"
+  }
+}
